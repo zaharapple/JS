@@ -1,48 +1,54 @@
-body{
+body {
     background: #438A55;
     display: flex;
     align-items: center;
     justify-content: center;
 }
-.nomer{
+
+.nomer {
     height: 600px;
     width: 35px;
     background: #252526;
 
 }
-.numbers{
+
+.numbers {
     color: #8d8d8d;
     display: flex;
     justify-content: flex-end;
 }
-.container{
+
+.container {
     background: black;
     height: 600px;
     width: 450px;
-    flex-direction: row;
-    box-sizing: border-box;
-    padding: 20px;
     font-family: Courier;
 
 
 }
-.coment{
+
+.coment {
     color: #438A55;
 
 }
-.key{
+
+.key {
     color: #D0DCAA;
 }
-.number{
+
+.number {
     color: #94CEA8;
-    
+
 }
-.func{
+
+.func {
     color: #C586C0;
 }
-.print{
+
+.print {
     color: #DBD700;
 }
-.text{
+
+.text {
     color: #CE9178;
 }
