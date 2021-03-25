@@ -1,0 +1,48 @@
+body{
+    background: #438A55;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.nomer{
+    height: 600px;
+    width: 35px;
+    background: #252526;
+
+}
+.numbers{
+    color: #8d8d8d;
+    display: flex;
+    justify-content: flex-end;
+}
+.container{
+    background: black;
+    height: 600px;
+    width: 450px;
+    flex-direction: row;
+    box-sizing: border-box;
+    padding: 20px;
+    font-family: Courier;
+
+
+}
+.coment{
+    color: #438A55;
+
+}
+.key{
+    color: #D0DCAA;
+}
+.number{
+    color: #94CEA8;
+    
+}
+.func{
+    color: #C586C0;
+}
+.print{
+    color: #DBD700;
+}
+.text{
+    color: #CE9178;
+}
